@@ -1,0 +1,28 @@
+{
+  "name": "odin-consent-taxonomy",
+  "version": "0.0.1",
+  "description": "ODINLabs IO Taxonomy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odinlabs/js-odinlabsio-taxonomy.git"
+  },
+  "author": "awalga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odinlabs/js-odinlabsio-taxonomy/issues"
+  },
+  "homepage": "https://github.com/odinlabs/js-odinlabsio-taxonomy#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "crypto": "^1.0.1",
+    "path": "^0.12.7",
+    "winston": "^3.0.0"
+  }
+}
